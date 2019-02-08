@@ -1,0 +1,28 @@
+.header-text{
+    float: left;
+    font-size: 50px;
+}
+body{
+    font-family: 'Julius Sans One', sans-serif;
+}
+.footerTextCrntered{
+    text-align: center;
+}
+footer{
+    background-color: gray !important;
+}
+.centered{
+    display: flex;
+    justify-content: center;
+}
+.black{
+    background-color: black
+}
+.body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+  }
