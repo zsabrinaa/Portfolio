@@ -15,9 +15,7 @@ footer{
     display: flex;
     justify-content: center;
 }
-.black{
-    background-color: black
-}
+
 .body{
     display: flex;
     min-height: 100vh;
@@ -30,4 +28,8 @@ main {
     font-family: 'Julius Sans One', sans-serif;
     font-weight: bolder;
     margin-left: 5px;
+}
+.containerPal{
+   margin-left: 50px;
+   margin-right: 50px;
 }
