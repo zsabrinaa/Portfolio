@@ -26,3 +26,8 @@ footer{
 main {
     flex: 1 0 auto;
   }
+.niceFont{
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bolder;
+    margin-left: 5px;
+}
