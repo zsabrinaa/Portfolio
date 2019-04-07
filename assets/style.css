@@ -33,3 +33,39 @@ main {
    margin-left: 50px;
    margin-right: 50px;
 }
+.link{
+  text-align: center;
+  color: black !important;
+}
+.train{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/*////////////////////////////////////////////////*/
+
+@media only screen and (max-width: 980px) {
+    .container{
+      width: 600px;
+    }
+
+  header {
+    width: 100%
+  }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .container{
+      width: 400px;
+    }
+  }
+  
+  @media only screen and (max-width: 640px) {
+    .container{
+      width: 100%;
+      
+    }
+  
+ 
+}
